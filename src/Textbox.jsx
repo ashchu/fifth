@@ -86,7 +86,7 @@ class Textbox extends Component {
 							<img id="iris" src={require('./iris.png').default} />
 						</div>
 						<form>
-							<p>Enter the correct weight:</p>
+							<p>Enter the correct number:</p>
 							<input
 								type='number'
 								onChange={this.setWeight}
