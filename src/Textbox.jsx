@@ -63,7 +63,7 @@ class Textbox extends Component {
 		if (this.state.index >= 1) {
 			if (this.state.weight == 860) {
 				ret = <div>
-						<div> jason lezak's incredible 100m freestyle leg in the 2008 olympics </div>
+						<div> 100 you're doing good chief. Heres the <a href="https://swetreatfinal.netlify.app">next challenge</a> </div>
 						<div id="content">
 							<img id="carolina" src={require('./carolina.png').default} />
 							<img id="bts" src={require('./bts.jpeg').default} />
